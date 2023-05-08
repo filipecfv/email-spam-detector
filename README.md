@@ -22,7 +22,7 @@ Machine Learning models used in this notebook:
 
 | Model | Precision |
 |-------|:-----------:|
-| Logistic regression | 92.35% |
+| Logistic regression | 93.43% |
 | Naive Bayes| |
 | --- Gaussian | 83.09% |
 | --- Multinomia | 80.44%| 
