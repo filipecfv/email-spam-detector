@@ -20,13 +20,13 @@ Machine Learning models used in this notebook:
 --- 
 ### Results:
 
-| Model | Precision |
-|-------|:-----------:|
-| Logistic regression | 93.43% |
-| Naive Bayes| |
-| --- Gaussian | 83.09% |
-| --- Multinomia | 80.44%| 
-| --- Bernoulli | 87.54 |
-| Random Forest | ~94.92% |
-| Support vector machines| |
-| Deep learning| |
+| Model | Precision | Cross Validation | KFold | Repeated KFold |
+|-------|:-----------:|:-----------:|:-----------:|:-----------:|
+| Logistic regression | 93.43% | 92.55%| 92.84% | 92.83% |
+| Naive Bayes| | | | | |
+| --- Gaussian | 83.09% | | | |
+| --- Multinomia | 80.44%| | | |
+| --- Bernoulli | 87.54 | | | |
+| Random Forest | ~94.92% | | | |
+| Support vector machines| | | | |
+| Deep learning| | | | |
