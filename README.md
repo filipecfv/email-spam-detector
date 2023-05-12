@@ -27,4 +27,4 @@ Data set: [Spambase Data Set](https://archive.ics.uci.edu/ml/datasets/spambase)
 | Naive Bayes (Gaussian) | 81.84% | 81.77%| 81.67%|
 | Naive Bayes (Multinomia) | 78.80% | 79.24% | 79.26% |
 | Naive Bayes (Bernoulli) | 88.88% | 88.41% | 88.40% |
-| Random Forest | 96.09% | 94.70% |  94.80% |
+| Random Forest | 94.79% | 95.39% |  95.29% |
