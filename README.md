@@ -4,6 +4,14 @@
 ---
 Data set: [Spambase Data Set](https://archive.ics.uci.edu/ml/datasets/spambase)
 
+Notebooks (nbviewer):
+- [00 summary](https://nbviewer.org/github/filipecfv/email-spam-detector/blob/main/00-summary.ipynb)
+- [01 Exploratory Analysis](https://nbviewer.org/github/filipecfv/email-spam-detector/blob/main/01-Exploratory.ipynb)
+- [02 Logistic Regression](https://nbviewer.org/github/filipecfv/email-spam-detector/blob/main/02-Logistic-regression.ipynb)
+- [03 Naive Bayes](https://nbviewer.org/github/filipecfv/email-spam-detector/blob/main/03-Naive-bayes.ipynb)
+- [04 Random Forest](https://nbviewer.org/github/filipecfv/email-spam-detector/blob/main/04-Random-Forest.ipynb)
+- [05 Improving the model](https://nbviewer.org/github/filipecfv/email-spam-detector/blob/main/05-Improving-the-model.ipynb)
+
 ---
 ### Objectives
 - Testing multiple machine learning models to detect whether a certain email is spam or not; 
